@@ -6,4 +6,4 @@ fullpage.js in mobile
 
 ` 引入zepto.js,touch.s
 ``引入fullpage.require.js
-```
+```$(selector).scrollScreen(opt);
