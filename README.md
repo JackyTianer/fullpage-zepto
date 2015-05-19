@@ -4,6 +4,16 @@ fullpage.js in mobile
 
 ### 使用方法
 
-` 引入zepto.js,touch.s
-``引入fullpage.require.js
-```$(selector).scrollScreen(opt);
+* 引入zepto.js,touch.s
+* 引入fullpage.require.js
+* 引入fullpage.zepto.css
+* $(selector).scrollScreen(opt);
+* 
+'''html
+<div class='content'>
+    <div class='viewframe'>page1<div/> 
+    <div class='viewframe'>page2<div/> 
+    <div class='viewframe'>page3<div/> 
+<div/>
+''' 
+ 
