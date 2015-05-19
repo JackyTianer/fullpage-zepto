@@ -1,0 +1,9 @@
+.content{
+    position: absolute;
+    -webkit-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+}
+
+.viewframe {
+    position: relative;
+}
