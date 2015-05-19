@@ -9,11 +9,10 @@ fullpage.js in mobile
 * 引入fullpage.zepto.css
 * $(selector).scrollScreen(opt);
 * 
-'''html
-<div class='content'>
-    <div class='viewframe'>page1<div/> 
-    <div class='viewframe'>page2<div/> 
-    <div class='viewframe'>page3<div/> 
-<div/>
-''' 
+
+    <div class='content'>
+        <div class='viewframe'>page1<div/> 
+        <div class='viewframe'>page2<div/> 
+        <div class='viewframe'>page3<div/> 
+    <div/> 
  
