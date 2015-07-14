@@ -17,7 +17,7 @@ fullpage.js in mobile
     <div/> 
 </html>
 ```
-*根据设计 将每个页面放入class为viewframe的div中
+* 根据设计 将每个页面放入class为viewframe的div中
 ```javascript
 require(['zepto', '../scripts/scroll.js'], function($) {
     'use strict';
